@@ -2,7 +2,7 @@
 
 Play as a rogue virus breaking out of a hospital with the help of several DNA mutations. Multiply and mutate your way to freedom!
 
-A Unity platformer game, which won first place in Discord Jam #5.
+A Unity platformer game that I wrote with Kyle Nguyen, which won first place in Discord Jam #5.
 
 # Demo
 
