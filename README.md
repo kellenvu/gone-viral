@@ -1,6 +1,8 @@
 # gone-viral
 
-These are the scripts for a Unity platformer game, which won first place in Discord Jam #5.
+Play as a rogue virus breaking out of a hospital with the help of several DNA mutations. Multiply and mutate your way to freedom!
+
+A Unity platformer game, which won first place in Discord Jam #5.
 
 # Demo
 
